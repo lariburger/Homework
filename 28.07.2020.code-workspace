@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\23.07"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dz"
+	}
+}
